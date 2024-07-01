@@ -55,4 +55,6 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
     <img src="./docs/img/home_page.png" alt="home_page" width="250">
     &nbsp;&nbsp;
     <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+    &nbsp;&nbsp;
+    <img src="WhatsApp Image 2024-07-01 at 19.44.35.jpeg" alt="addnote_page" width="250">
 </p>
